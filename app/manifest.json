@@ -1,0 +1,19 @@
+{
+  "name": "kkgs-32",
+  "start_url": "https://kkgs-32.github.io/test/",
+  "display": "fullscreen",
+  "theme_color": "#CCF0FF",
+  "background_color": "#CCF0FF",
+  "icons": [
+    {
+      "src": "/app/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/app/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
